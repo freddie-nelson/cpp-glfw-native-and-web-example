@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": ["${workspaceFolder}/**", "${workspaceFolder}/externals/include"],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "cStandard": "c17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerPath": "C:\\Users\\fredd\\AppData\\Local\\emsdk\\upstream\\emscripten\\em++.bat"
+    }
+  ],
+  "version": 4
+}
